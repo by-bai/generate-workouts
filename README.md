@@ -2,8 +2,6 @@
 ![home](/images/fitnessbud-home.png)
 This is my submission for [Code With Friends Spring 2020](https://scottkwang.github.io/CodeWithFriends-Spring2020/).
 
-Demo: [by-bai.github.io/fitnessbud](https://by-bai.github.io/fitnessbud/) 
-
 
 ## Summary
 Fitness Bud is (currently, a client-side only) web application that generates a random workout video from Youtube, according to the user's choice of workout category (e.g. abs workout). When the user selects a workout category, the web application sends a request to Youtube's API to search for videos that belong to the chosen category, then returns one random video from the search.
@@ -45,8 +43,5 @@ user can save their favourite workouts and access easily
 user can log details of their daily home workouts (e.g. time, youtube link, workout category)
 user can visualise insights from their workout logs on an analytical dashboard
 ```
-
-
-If you have the time, [feedbacks](https://docs.google.com/forms/d/e/1FAIpQLSeHaMXkMuaVVFtlVqdxekAxBRyzywVsGW9Oyvqf8_xWAPEZqQ/viewform) are appreciated :> 
 
 I hope to encourage more friends to workout at home with Fitness Bud and stay healthy!
